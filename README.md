@@ -24,4 +24,4 @@ iOS 개발자 지망생
 * Blog : https://blog.naver.com/alimelon
 
 
-  [![Instagram Badge](http://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instacart&link=https://www.instagram.com/alimelon/)](https://www.instagram.com/alimelon)
+  [![Instagram Badge](http://img.shields.io/badge/instagram-white?style=flat-square&logo=instagram&link=https://www.instagram.com/alimelon/)](https://www.instagram.com/alimelon)
