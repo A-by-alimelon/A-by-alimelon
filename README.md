@@ -1,16 +1,15 @@
-### Hi there 👋
+# A-by-alimelon⎯⎯⎯⎯⎯⎯@alimelon
 
-<!--
-**A-by-alimelon/A-by-alimelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS 개발자 지망생
 
-Here are some ideas to get you started:
+부스트캠프2020에서 공부하고 있습니다 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Get in touch
+
+* instagram : https://www.instagram.com/alimelon
+* Email : zhdtns2005@naver.com
+* Blog : https://blog.naver.com/alimelon
+
