@@ -25,3 +25,4 @@ iOS 개발자 지망생
 
 
   [![Instagram Badge](http://img.shields.io/badge/instagram-white?style=flat-square&logo=instagram&link=https://www.instagram.com/alimelon/)](https://www.instagram.com/alimelon)
+  [![Github Badge](http://img.shields.io/badge/github-white?style=flat-square&logo=github&link=https://github.com/A-by-alimelon)](https://github.com/A-by-alimelon)
