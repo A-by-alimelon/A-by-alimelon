@@ -22,6 +22,7 @@ iOS 개발자 지망생
 * instagram : https://www.instagram.com/alimelon
 * Email : zhdtns2005@naver.com
 * Blog : https://blog.naver.com/alimelon
+	https://velog.io/@alimelon
 
 
 
