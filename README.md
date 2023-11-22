@@ -19,8 +19,6 @@ iOS 개발자 지망생
 ## Get in touch
 
 * Email : zhdtns2005@naver.com
-* Blog : welly-log.tistory.com
-
 
 
   [![Instagram Badge](http://img.shields.io/badge/-white?style=flat-square&logo=instagram&link=https://www.instagram.com/alimelon/)](https://www.instagram.com/alimelon)
